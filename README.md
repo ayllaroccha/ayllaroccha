@@ -1,4 +1,4 @@
-### Oii, eu sou a Áylla Rocha, estudante de engenharia da computação!
+### Oii, eu sou a Áylla Rocha, estudante de engenharia da Software
   <div align="center">
   <a href="https://github.com/ayllaroccha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayllaroccha&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
