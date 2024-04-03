@@ -2,9 +2,9 @@
 <br>
 <br> 
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=100&color=EA65F7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=800&height=100&lines=Welcome;Hello!+My+name+is+%C3%81ylla+Rocha;I'm+24+years+old;I'm+software+engineering+student)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=100&color=EA65F7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=800&height=100&lines=Welcome;Hello!+My+name+is+%C3%81ylla+Rocha;I'm+24+years+old;I'm+software+engineering+student" alt="Typing SVG" /></a>
+</p>
 
 <br>
 <br>
